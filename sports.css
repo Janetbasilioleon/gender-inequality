@@ -1,0 +1,100 @@
+* {
+  background-color: white
+  padding: 1px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #FFEEEE;
+}
+
+.topnav a {
+  float: left;
+  color: #E0BBE4;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #E0BBE4;
+  color: black;
+}
+
+h1 {
+ font-size: 45px;
+ background-color: #28B8D5;
+ color: white;
+ text-shadow: 3px 3px #1f89d0;
+ font-family: 'Montserrat';
+ text-align: center;
+}
+
+h3 {
+  background-color: #28B8D5;
+  color: white;
+}
+
+.problem {
+  font-size: 18px;
+  font-family: 'DM Serif Display', serif;
+  border: 2px solid #28B8D5;
+  width: 600px;
+  height: 540px;
+  border-width: thick;
+  display: inline-block;
+  padding: 5px;
+  /* background-color: white; */
+}
+
+.fun-facts {
+  font-size: 18px;
+  font-family: 'DM Serif Display', serif;
+  border: 2px solid #28B8D5;
+  width: 600px;
+  height: 300px;
+  border-width: thick;
+  display: inline-block;
+  padding: 5px;
+  /* background-color: white; */
+}
+
+.gif2 {
+  padding-top: 30px;
+}
+
+/* img {
+  padding-top: 20px
+} */
+
+.problem{
+  text-align: center;
+  margin-left: 70px;
+}
+
+.graph{
+  width: 558.08px;
+  height: 362.97px;
+  position: absolute;
+  right: 9%;
+  bottom: 23%
+}
+
+figcaption {
+  position: absolute;
+  right: 8%;
+  bottom: 20%
+}
+
+.gif1 {
+  padding-top: 20px;
+}
